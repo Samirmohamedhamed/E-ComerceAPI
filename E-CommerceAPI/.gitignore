@@ -1,0 +1,7 @@
+# .NET specific
+bin/
+obj/
+
+# Local secrets
+appsettings.json
+.env
